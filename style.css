@@ -1,0 +1,108 @@
+body{
+    background-color: rgba(206, 170, 170, 0.845);
+}
+
+.container{
+    width: 500px;
+    margin: 150px auto;
+    background-color: rgba(159, 207, 231, 0.904);
+    padding: 10px 10px;
+    border: 5px ridge black;
+    
+}
+
+.container1{
+    width: 800px;
+    margin: 150px auto;
+    background-color: rgba(159, 207, 231, 0.904);
+    padding: 10px 10px;
+    border: 5px ridge black;
+    
+}
+
+
+h1,h2,h3{
+    text-align: center;
+    font-family: cursive;  
+    
+}
+ul{
+    width: 200px;
+    margin: 0 auto;
+    /* border: 2px solid black; */
+    padding: 10px;
+}
+
+.ul2{
+    width: 300px;
+    margin: 0 auto;
+    /* border: 2px solid black; */
+    padding: 10px;
+}
+
+.rs1, .rs2, .rs3{
+    display:inline-block;
+    margin: 0 auto;
+    font-family: cursive;
+    font-weight: 100;
+    padding: 4px;
+    text-decoration: none;
+    margin-bottom: 8px;
+    border: 2px solid black;
+}
+
+.rs1{
+    background-color: rgba(213, 160, 120, 0.888);
+  
+    
+
+}
+
+.rs2{
+    background-color: rgba(212, 177, 150, 0.888);
+   
+}
+
+.rs3
+{
+    background-color: rgba(185, 166, 150, 0.888);
+    
+}
+
+a{
+    display:inline-block;
+    width: 200px;
+    margin: 0 auto;
+    text-decoration: none;
+    
+  
+}
+
+.photo{
+    display: block;
+    text-align: center;
+    
+}
+
+.desc{
+    width: 500px;
+    margin: 0 auto;
+}
+
+ol{
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.btn
+{
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    padding: 2px;
+    background-color: beige;
+    text-align: center;
+    border: 3px solid rgba(206, 170, 170, 0.845);
+
+}
